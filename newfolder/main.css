@@ -31,7 +31,7 @@ padding-bottom: 50px;
 
 
 .topbody{
-background-image: url("https://image.freepik.com/free-vector/bright-background-with-dots_1055-3132.jpg")
+background-image: url("https://cdn.pixabay.com/photo/2016/03/27/18/52/flower-1283602__340.jpg")
 
 }      
 
@@ -75,8 +75,8 @@ flex:70%;
 .footer-container{
   display: flex;
   flex-wrap: wrap;
-  background-color:rgb(red, rgb(12, 0, 185), blue)
-  }
+  background-color:rgb(29, 140, 214);
+ }
 
 .description{
   flex:50%;
@@ -93,8 +93,37 @@ flex:70%;
 
 .column1 ul{
   list-style-type: none;
+  color: rgb(255, 255, 255);
   
 }
 .column2 ul{
   list-style-type: none;
+  color: rgb(255, 255, 255);
+}
+
+.row{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.columnimage{
+  float: left;
+  width: 32.33%;
+  padding: 5px;
+
+}
+
+.description{
+  padding-top: 30px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+
+.paragraphs{
+  float: left;
+  width: 32.33%;
+  padding: 5px;
+
 }
