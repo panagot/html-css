@@ -169,7 +169,7 @@ p{
 .grid-item:nth-child(14):hover {
     background-color: rgb(255, 0, 140);
     font-weight: bold;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .grid-item:nth-child(14) img:hover{
